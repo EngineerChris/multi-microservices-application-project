@@ -29,18 +29,18 @@
     - Confirm that the code is now available on GitHub 
 2) Download the code from ALL the other BRANCHES as well
   - Create the following branches in the Repository, you just created above
-    1 `app-ad-serverice`
-    2 `app-cart-service`
-    3 `app-checkout-service`
-    4 `app-currency-service`
-    5 `app-database`
-    6 `app-email-service`
-    7 `app-frontend-service`
-    8 `app-loadgenerator-service`
-    9 `app-payment-service`
-    10 `app-product-catalog-service`
-    11 `app-recommendation-service`
-    12 `app-shipping-service`
+    * `app-ad-serverice`
+    * `app-cart-service`
+    * `app-checkout-service`
+    * `app-currency-service`
+    * `app-database`
+    * `app-email-service`
+    * `app-frontend-service`
+    * `app-loadgenerator-service`
+    * `app-payment-service`
+    * `app-product-catalog-service`
+    * `app-recommendation-service`
+    * `app-shipping-service`
   - Download the Source Code of each microservice, from their respective branches from this Repository https://github.com/awanmbandi/realworld-microservice-project.git
   - And Push the Code based on the Microservice to the specific Branch you Created for that Service.
 
